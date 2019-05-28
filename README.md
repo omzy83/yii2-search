@@ -12,3 +12,5 @@ An overview of the files is as follows:
    - [`models/forms/Search`](models/forms/Search.php): This contains the functions to perform the search based on query conditions
 
 `SearchController` returns an `ActiveDataProvider` instance that can be used with the `ListView` widget to display the search results.
+
+![screenshot](search.png)
